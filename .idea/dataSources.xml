@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="159230357">
+    <data-source source="LOCAL" name="MySQL - db309T01@mysql.cs.iastate.edu" uuid="fb8cd2d4-0bc1-45dd-aab0-23f72798dd3c">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysql.cs.iastate.edu:3306/db309T01</jdbc-url>
+      <user-name>u309T01</user-name>
+      <user-password>dfc4dfc7df99df9edfc2dfd3dfc2dfcbdff8df8adf8adfe3dfcc</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
